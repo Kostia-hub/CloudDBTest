@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1887edfe-680b-42c3-bcf1-c413495cf007" name="Default Changelist" comment="Branch3&#10;Что сделано: Соединение клиента с сервером, Кнопки:Загрузить, Скачать,Удалить и Обновить. Все работает.&#10;&#10;ПРОБЛЕМА: 1)">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Client/ClientStorage/1223" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Client/ClientStorage/dfgg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Client/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Client/src/main/java/Controller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Client/src/main/java/FileInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Client/src/main/java/LeftPanelController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Client/src/main/java/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Client/src/main/java/Network.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Client/src/main/resources/leftPanel.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Client/src/main/resources/login.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Client/src/main/resources/rightPanel.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Client/src/main/resources/sample.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Client/target/classes/Controller.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Client/target/classes/FileInfo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Client/target/classes/LeftPanelController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Client/target/classes/LoginController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Client/target/classes/META-INF/Client.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Client/target/classes/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Client/target/classes/Network.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Client/target/classes/leftPanel.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Client/target/classes/login.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Client/target/classes/rightPanel.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Client/target/classes/sample.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Common/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Common/src/main/java/common/AbstractMessage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Common/src/main/java/common/FileDeleteRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Common/src/main/java/common/FileListRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Common/src/main/java/common/FileMessage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Common/src/main/java/common/FileRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Common/target/classes/common/AbstractMessage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Common/target/classes/common/AuthRequest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Common/target/classes/common/FileDeleteRequest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Common/target/classes/common/FileListRequest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Common/target/classes/common/FileMessage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Common/target/classes/common/FileRenameRequest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Common/target/classes/common/FileRequest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Server/ServerStorage/45689" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Server/ServerStorage/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Server/ServerStorage1223" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Server/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Server/src/main/java/MainHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Server/src/main/java/NettyServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="C:\Users\Константин\IdeaProjects\CloudDBTest\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1hC4vKil8hF9T4r091Zy6aiMtw7" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Константин\IdeaProjects\CloudDBTest" />
+      <recent name="C:\Users\Константин\IdeaProjects\CloudDBTest\Server" />
+      <recent name="C:\Users\Константин\IdeaProjects\CloudDBTest\Client" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="NettyServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="NettyServer" />
+      <module name="Server" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.NettyServer" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1887edfe-680b-42c3-bcf1-c413495cf007" name="Default Changelist" comment="" />
+      <created>1599501969855</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599501969855</updated>
+    </task>
+    <task id="LOCAL-00001" summary="master.Commit1">
+      <created>1599502093665</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1599502093665</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Branch1">
+      <created>1599502245968</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1599502245968</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Branch2&#10;Что сделано: Клиентская часть.&#10;             Соединение клиента с сервером&#10;Что нужно сделать:&#10;1. Чтобы в правом окне клиента отображались его файлы на сервере&#10;2.Кнопка &quot;Загрузить на сервер&quot; не работает&#10;3.Кнопка &quot;Скачать сервера&quot; не работает&#10;&#10;Что сделать из сложного: регистрация/логин на стороне клиента&gt;на сервере создается папка с именем-логин клиента &gt;клиент загружает/скачивает только в свою папку&#10;&#10;Как сделать чтобы в правом окне клиента отображались его файлы на сервере?">
+      <created>1599721178583</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1599721178583</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="master.Commit1" />
+    <MESSAGE value="Branch1" />
+    <MESSAGE value="Branch2&#10;Что сделано: Клиентская часть.&#10;             Соединение клиента с сервером&#10;Что нужно сделать:&#10;1. Чтобы в правом окне клиента отображались его файлы на сервере&#10;2.Кнопка &quot;Загрузить на сервер&quot; не работает&#10;3.Кнопка &quot;Скачать сервера&quot; не работает&#10;&#10;Что сделать из сложного: регистрация/логин на стороне клиента&gt;на сервере создается папка с именем-логин клиента &gt;клиент загружает/скачивает только в свою папку&#10;&#10;Как сделать чтобы в правом окне клиента отображались его файлы на сервере?" />
+    <option name="LAST_COMMIT_MESSAGE" value="Branch2&#10;Что сделано: Клиентская часть.&#10;             Соединение клиента с сервером&#10;Что нужно сделать:&#10;1. Чтобы в правом окне клиента отображались его файлы на сервере&#10;2.Кнопка &quot;Загрузить на сервер&quot; не работает&#10;3.Кнопка &quot;Скачать сервера&quot; не работает&#10;&#10;Что сделать из сложного: регистрация/логин на стороне клиента&gt;на сервере создается папка с именем-логин клиента &gt;клиент загружает/скачивает только в свою папку&#10;&#10;Как сделать чтобы в правом окне клиента отображались его файлы на сервере?" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="180" key="#Project_Structure" timestamp="1599720769624">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="180" key="#Project_Structure/0.0.1920.1040/1920.0.1280.1024@0.0.1920.1040" timestamp="1599720769624" />
+    <state x="270" y="26" width="1057" height="896" key="CommitChangelistDialog2" timestamp="1600159190277">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="270" y="26" width="1057" height="896" key="CommitChangelistDialog2/0.0.1920.1040/1920.0.1280.1024@0.0.1920.1040" timestamp="1600159190277" />
+    <state x="740" y="263" key="FileChooserDialogImpl" timestamp="1599501995176">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="263" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1280.1024@0.0.1920.1040" timestamp="1599501995176" />
+    <state width="1876" height="269" key="GridCell.Tab.0.bottom" timestamp="1600158801011">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="269" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1280.1024@0.0.1920.1040" timestamp="1600158801011" />
+    <state width="1876" height="269" key="GridCell.Tab.0.center" timestamp="1600158801010">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="269" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1280.1024@0.0.1920.1040" timestamp="1600158801010" />
+    <state width="1876" height="269" key="GridCell.Tab.0.left" timestamp="1600158801010">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="269" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1280.1024@0.0.1920.1040" timestamp="1600158801010" />
+    <state width="1876" height="269" key="GridCell.Tab.0.right" timestamp="1600158801011">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="269" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1280.1024@0.0.1920.1040" timestamp="1600158801011" />
+    <state x="490" y="177" key="Maven.ArtifactSearchDialog" timestamp="1600158512527">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="490" y="177" key="Maven.ArtifactSearchDialog/0.0.1920.1040/1920.0.1280.1024@0.0.1920.1040" timestamp="1600158512527" />
+    <state x="552" y="255" key="Vcs.Push.Dialog.v2" timestamp="1599721208708">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="255" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1280.1024@0.0.1920.1040" timestamp="1599721208708" />
+  </component>
+</project>
